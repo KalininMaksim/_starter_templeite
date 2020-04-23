@@ -1,0 +1,14 @@
+body {
+    font-family: "Lato", Fallback, sans-serif;
+    min-width: 320px;
+    color: #000;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+    padding: 50px 0;
+}
